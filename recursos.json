@@ -1,0 +1,7 @@
+{
+  "recursos": [
+    { "id": 1, "nombre": "Recursos Humanos" },
+    { "id": 2, "nombre": "Recursos Financieros" },
+    { "id": 3, "nombre": "Recursos Organizativos" }
+  ]
+}
