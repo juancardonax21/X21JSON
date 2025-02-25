@@ -2,6 +2,10 @@
   "recursos": [
     { "id": 1, "nombre": "Recursos Humanos" },
     { "id": 2, "nombre": "Recursos Financieros" },
-    { "id": 3, "nombre": "Recursos Organizativos" }
+    { "id": 3, "nombre": "Recursos Físicos" },
+    { "id": 4, "nombre": "Recursos Tecnológicos" },
+    { "id": 5, "nombre": "Recursos Organizativos" },
+    { "id": 6, "nombre": "Recursos Intangibles" },
+    { "id": 7, "nombre": "Recursos Relacionales" }
   ]
 }
